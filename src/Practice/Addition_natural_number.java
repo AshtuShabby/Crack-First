@@ -9,6 +9,6 @@ public class Addition_natural_number {
 			a=a+i;
 			
 		}
-		System.out.println(a);
+		System.out.println(a); // print this in consoleoutput
 	}
 }
